@@ -10,7 +10,7 @@ const Wrapper = styled(Row)`
 `;
 
 const Box = styled(Col)`
-  heigth: 100vh;
+  height: 100vh;
   padding: 20px;
 `;
 
