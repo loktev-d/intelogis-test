@@ -1,0 +1,5 @@
+@import "~antd/dist/antd.css";
+
+.fixed-column {
+  min-width: 100px;
+}
